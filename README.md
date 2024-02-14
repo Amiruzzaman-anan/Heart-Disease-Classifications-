@@ -1,12 +1,12 @@
 # Heart-Disease-Classifications
 
-This project involves a classification task using various machine learning algorithms on a heart disease dataset. The dataset comprises features related to heart health, with the target variable indicating the presence or absence of heart disease. Implemented machine learning algorithms include Logistic Regression, Naive Bayes, Random Forest, Extreme Gradient Boost, K-Nearest Neighbors, Decision Tree, Support Vector Machine, Artificial Neural Network, and Long Short-Term Memory networks.
+This project involves a classification task using various machine learning algorithms on a heart disease dataset sourced from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). The dataset comprises features related to heart health, with the target variable indicating the presence or absence of heart disease. Implemented machine learning algorithms include Logistic Regression, Naive Bayes, Random Forest, Extreme Gradient Boost, K-Nearest Neighbors, Decision Tree, Support Vector Machine, Artificial Neural Network, and Long Short-Term Memory networks.
 
 ## Process
 
-1. **Dataset Overview:** Explore and understand the heart disease dataset, analyzing features and the target variable.
+1. **Dataset Overview:** Explore and understand the heart disease dataset from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), analyzing features and the target variable.
 
-2. **Algorithm Implementation:** Implement multiple machine learning algorithms to classify heart disease instances. 
+2. **Algorithm Implementation:** Implement multiple machine learning algorithms to classify heart disease instances.
 
 3. **Evaluation:** Assess each model's performance using a confusion matrix, accuracy score, and a detailed classification report.
 
@@ -31,4 +31,3 @@ Feel free to explore the Colab notebook to delve into the code and further under
 
 This project aims to provide insights into heart disease classification using various machine learning models. Contributions and suggestions are welcome!
 
-#MachineLearning #Classification #HeartDisease #DataScience
