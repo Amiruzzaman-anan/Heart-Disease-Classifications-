@@ -2,6 +2,13 @@
 
 This project involves a classification task using various machine learning algorithms on a heart disease dataset sourced from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). The dataset comprises features related to heart health, with the target variable indicating the presence or absence of heart disease. Implemented machine learning algorithms include Logistic Regression, Naive Bayes, Random Forest, Extreme Gradient Boost, K-Nearest Neighbors, Decision Tree, Support Vector Machine, Artificial Neural Network, and Long Short-Term Memory networks.
 
+## Dataset Links
+[Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+
+## Colab Notebook (Click to View)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vqZn2c6lVRSmnM3DlFF8hDpbIEdlAsSp?usp=sharing)
+
+
 ## Process
 
 1. **Dataset Overview:** Explore and understand the heart disease dataset from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), analyzing features and the target variable.
@@ -18,16 +25,4 @@ This project involves a classification task using various machine learning algor
 
 ![Model Comparison](https://github.com/Amiruzzaman-anan/Heart-Disease-Classifications/assets/68743925/4d42feb2-6d82-4dcd-8834-a8ef9f5ed698)
 
-## Colab Notebook
-
-[Open in Colab](https://colab.research.google.com/github/amiruzzaman1/Heart-Disease-Classifications/blob/main/Heart_disease.ipynb)
-
-Feel free to explore the Colab notebook to delve into the code and further understand the classification task.
-
-## How to Use
-
-1. Clone the repository: `git clone https://github.com/Amiruzzaman-anan/Heart-Disease-Classifications.git`
-2. Open the Colab notebook to interact with the code.
-
-This project aims to provide insights into heart disease classification using various machine learning models. Contributions and suggestions are welcome!
 
